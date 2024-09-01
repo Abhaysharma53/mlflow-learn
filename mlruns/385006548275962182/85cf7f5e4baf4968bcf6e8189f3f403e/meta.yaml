@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/385006548275962182/85cf7f5e4baf4968bcf6e8189f3f403e/artifacts
+end_time: 1721806503210
+entry_point_name: ''
+experiment_id: '385006548275962182'
+lifecycle_stage: active
+run_id: 85cf7f5e4baf4968bcf6e8189f3f403e
+run_name: rogue-fly-913
+run_uuid: 85cf7f5e4baf4968bcf6e8189f3f403e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721806409238
+status: 3
+tags: []
+user_id: Abhay.Sharma

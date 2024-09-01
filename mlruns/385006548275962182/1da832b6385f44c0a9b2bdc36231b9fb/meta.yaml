@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/385006548275962182/1da832b6385f44c0a9b2bdc36231b9fb/artifacts
+end_time: 1721814904027
+entry_point_name: ''
+experiment_id: '385006548275962182'
+lifecycle_stage: active
+run_id: 1da832b6385f44c0a9b2bdc36231b9fb
+run_name: loud-crow-299
+run_uuid: 1da832b6385f44c0a9b2bdc36231b9fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721814763126
+status: 3
+tags: []
+user_id: Abhay.Sharma

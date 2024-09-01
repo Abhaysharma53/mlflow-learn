@@ -1,0 +1,28 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.14.3
+model_size_bytes: 724823
+model_uuid: 37b48ee5a2da463c8909a4307ffb6afb
+run_id: 42ca2a5444864aa29e9af8ffa1c43595
+signature:
+  inputs: '[{"type": "long", "name": "pclass", "required": true}, {"type": "string",
+    "name": "sex", "required": true}, {"type": "double", "name": "age", "required":
+    true}, {"type": "double", "name": "fare", "required": true}, {"type": "string",
+    "name": "embarked", "required": true}, {"type": "long", "name": "family", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-07-24 07:34:44.482627'

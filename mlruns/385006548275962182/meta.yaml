@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/385006548275962182
+creation_time: 1721806402859
+experiment_id: '385006548275962182'
+last_update_time: 1721806402859
+lifecycle_stage: active
+name: Titanic GridSearch

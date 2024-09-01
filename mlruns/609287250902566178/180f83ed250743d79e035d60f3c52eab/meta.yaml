@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/609287250902566178/180f83ed250743d79e035d60f3c52eab/artifacts
+end_time: 1721719406821
+entry_point_name: ''
+experiment_id: '609287250902566178'
+lifecycle_stage: active
+run_id: 180f83ed250743d79e035d60f3c52eab
+run_name: First run
+run_uuid: 180f83ed250743d79e035d60f3c52eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721719405481
+status: 3
+tags: []
+user_id: Abhay.Sharma

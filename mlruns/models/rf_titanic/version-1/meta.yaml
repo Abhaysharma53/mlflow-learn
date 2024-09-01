@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1721807985867
+current_stage: None
+description: ''
+last_updated_timestamp: 1721807985867
+name: rf_titanic
+run_id: 2a623819800a4bff927ba1a3f4d740ed
+run_link: ''
+source: mlflow-artifacts:/385006548275962182/2a623819800a4bff927ba1a3f4d740ed/artifacts/best_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/385006548275962182/2a623819800a4bff927ba1a3f4d740ed/artifacts/best_model
+user_id: null
+version: 1
