@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/b0b7dfd79233428cae490a32db8beab3/artifacts
+end_time: 1725301656554
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: b0b7dfd79233428cae490a32db8beab3
+run_name: able-crane-19
+run_uuid: b0b7dfd79233428cae490a32db8beab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725301656398
+status: 4
+tags: []
+user_id: admin

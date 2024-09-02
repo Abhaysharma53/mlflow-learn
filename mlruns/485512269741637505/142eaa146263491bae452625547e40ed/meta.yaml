@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/142eaa146263491bae452625547e40ed/artifacts
+end_time: 1725301173510
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: 142eaa146263491bae452625547e40ed
+run_name: orderly-shark-362
+run_uuid: 142eaa146263491bae452625547e40ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725301166059
+status: 4
+tags: []
+user_id: admin

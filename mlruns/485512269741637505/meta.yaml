@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505
+creation_time: 1725300508016
+experiment_id: '485512269741637505'
+last_update_time: 1725300508016
+lifecycle_stage: active
+name: iris-rf

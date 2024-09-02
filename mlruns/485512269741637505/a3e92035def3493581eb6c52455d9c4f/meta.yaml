@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/a3e92035def3493581eb6c52455d9c4f/artifacts
+end_time: 1725301196901
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: a3e92035def3493581eb6c52455d9c4f
+run_name: calm-wolf-383
+run_uuid: a3e92035def3493581eb6c52455d9c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725301187873
+status: 3
+tags: []
+user_id: admin

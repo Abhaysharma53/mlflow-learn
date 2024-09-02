@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/0d634ab25f0b4086b2681c88655ab7d1/artifacts
+end_time: 1725301009301
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: 0d634ab25f0b4086b2681c88655ab7d1
+run_name: unequaled-carp-586
+run_uuid: 0d634ab25f0b4086b2681c88655ab7d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725300999012
+status: 4
+tags: []
+user_id: admin

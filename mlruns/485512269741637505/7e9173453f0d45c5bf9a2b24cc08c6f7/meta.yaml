@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/7e9173453f0d45c5bf9a2b24cc08c6f7/artifacts
+end_time: 1725300751951
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: 7e9173453f0d45c5bf9a2b24cc08c6f7
+run_name: thoughtful-bee-24
+run_uuid: 7e9173453f0d45c5bf9a2b24cc08c6f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725300740540
+status: 4
+tags: []
+user_id: admin

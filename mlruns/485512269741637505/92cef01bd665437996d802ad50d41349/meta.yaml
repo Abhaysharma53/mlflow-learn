@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/92cef01bd665437996d802ad50d41349/artifacts
+end_time: 1725301074658
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: 92cef01bd665437996d802ad50d41349
+run_name: beautiful-bird-25
+run_uuid: 92cef01bd665437996d802ad50d41349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725301065196
+status: 4
+tags: []
+user_id: admin
