@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/7bb6d265352a4889ab4da67cde71d665/artifacts
+end_time: 1725301923574
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: 7bb6d265352a4889ab4da67cde71d665
+run_name: sincere-grub-921
+run_uuid: 7bb6d265352a4889ab4da67cde71d665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725301923039
+status: 4
+tags: []
+user_id: admin

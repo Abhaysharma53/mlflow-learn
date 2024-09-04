@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/441c385985bb419db4402696b41da6fd/artifacts
+end_time: 1725302437390
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: 441c385985bb419db4402696b41da6fd
+run_name: sneaky-mule-512
+run_uuid: 441c385985bb419db4402696b41da6fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725302428397
+status: 4
+tags: []
+user_id: admin

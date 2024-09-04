@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/541941083932765183/de2e7093fd76403dbea829b3abb95c71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '541941083932765183'
+lifecycle_stage: active
+run_id: de2e7093fd76403dbea829b3abb95c71
+run_name: handsome-foal-660
+run_uuid: de2e7093fd76403dbea829b3abb95c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725303184428
+status: 1
+tags: []
+user_id: admin

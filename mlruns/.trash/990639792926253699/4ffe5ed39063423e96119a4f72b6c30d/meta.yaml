@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990639792926253699/4ffe5ed39063423e96119a4f72b6c30d/artifacts
+deleted_time: 1725303119845
+end_time: null
+entry_point_name: ''
+experiment_id: '990639792926253699'
+lifecycle_stage: deleted
+run_id: 4ffe5ed39063423e96119a4f72b6c30d
+run_name: enchanting-carp-25
+run_uuid: 4ffe5ed39063423e96119a4f72b6c30d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725302879962
+status: 1
+tags: []
+user_id: admin

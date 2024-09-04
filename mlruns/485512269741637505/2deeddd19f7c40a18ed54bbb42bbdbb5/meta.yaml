@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/2deeddd19f7c40a18ed54bbb42bbdbb5/artifacts
+end_time: 1725302631471
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: 2deeddd19f7c40a18ed54bbb42bbdbb5
+run_name: efficient-turtle-150
+run_uuid: 2deeddd19f7c40a18ed54bbb42bbdbb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725302622344
+status: 3
+tags: []
+user_id: admin

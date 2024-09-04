@@ -1,0 +1,10 @@
+digest: 48e6b6c3
+name: dataset
+profile: '{"num_rows": 120, "num_elements": 600}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal_length", "required":
+  true}, {"type": "double", "name": "sepal_width", "required": true}, {"type": "double",
+  "name": "petal_length", "required": true}, {"type": "double", "name": "petal_width",
+  "required": true}, {"type": "string", "name": "species", "required": true}]}'
+source: '{"tags": {"mlflow.user": "admin", "mlflow.source.name": "adv_mlflow.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "6a33a12d0bc1c3e8dcb57ea10ef41ad045555cac"}}'
+source_type: code

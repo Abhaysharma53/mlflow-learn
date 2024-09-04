@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245215711067805111/ed883930644e44f5ad5f84b46da61354/artifacts
+end_time: 1725303919489
+entry_point_name: ''
+experiment_id: '245215711067805111'
+lifecycle_stage: active
+run_id: ed883930644e44f5ad5f84b46da61354
+run_name: entertaining-dog-153
+run_uuid: ed883930644e44f5ad5f84b46da61354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725303908880
+status: 3
+tags: []
+user_id: admin

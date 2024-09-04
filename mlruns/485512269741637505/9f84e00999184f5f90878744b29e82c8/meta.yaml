@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/9f84e00999184f5f90878744b29e82c8/artifacts
+end_time: 1725302378094
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: 9f84e00999184f5f90878744b29e82c8
+run_name: persistent-ant-591
+run_uuid: 9f84e00999184f5f90878744b29e82c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725302367887
+status: 3
+tags: []
+user_id: admin

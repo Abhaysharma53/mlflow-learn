@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/567121133492092701/95d5461b3d6548f5b67e8157602f2851/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '567121133492092701'
+lifecycle_stage: active
+run_id: 95d5461b3d6548f5b67e8157602f2851
+run_name: clean-shoat-462
+run_uuid: 95d5461b3d6548f5b67e8157602f2851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725304195090
+status: 1
+tags: []
+user_id: admin

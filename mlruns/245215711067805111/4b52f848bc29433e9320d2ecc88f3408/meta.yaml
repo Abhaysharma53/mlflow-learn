@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245215711067805111/4b52f848bc29433e9320d2ecc88f3408/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '245215711067805111'
+lifecycle_stage: active
+run_id: 4b52f848bc29433e9320d2ecc88f3408
+run_name: suave-shad-976
+run_uuid: 4b52f848bc29433e9320d2ecc88f3408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725303475700
+status: 1
+tags: []
+user_id: admin

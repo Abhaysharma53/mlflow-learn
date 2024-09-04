@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/990639792926253699
+creation_time: 1725302879384
+experiment_id: '990639792926253699'
+last_update_time: 1725303119845
+lifecycle_stage: deleted
+name: iris-rf-test2
+tags: {}

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/485512269741637505/16d3a1467a5942dcb327de504cc4e98b/artifacts
+end_time: 1725302478619
+entry_point_name: ''
+experiment_id: '485512269741637505'
+lifecycle_stage: active
+run_id: 16d3a1467a5942dcb327de504cc4e98b
+run_name: dapper-snake-448
+run_uuid: 16d3a1467a5942dcb327de504cc4e98b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725302467433
+status: 3
+tags: []
+user_id: admin
