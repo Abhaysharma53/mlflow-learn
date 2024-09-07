@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1725717285722
+current_stage: Production
+description: random forest model using grid search CV for hypertuning
+last_updated_timestamp: 1725718047571
+name: rf_diabetes
+run_id: 8a956870985942e78b6d084383c806b7
+run_link: ''
+source: mlflow-artifacts:/952951123668663807/8a956870985942e78b6d084383c806b7/artifacts/random
+  forest
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/952951123668663807/8a956870985942e78b6d084383c806b7/artifacts/random
+  forest
+user_id: null
+version: 1

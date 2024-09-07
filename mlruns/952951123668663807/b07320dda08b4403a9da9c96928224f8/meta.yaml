@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/952951123668663807/b07320dda08b4403a9da9c96928224f8/artifacts
+end_time: 1725717144780
+entry_point_name: ''
+experiment_id: '952951123668663807'
+lifecycle_stage: active
+run_id: b07320dda08b4403a9da9c96928224f8
+run_name: abrasive-stag-51
+run_uuid: b07320dda08b4403a9da9c96928224f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725717144657
+status: 3
+tags: []
+user_id: admin

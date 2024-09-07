@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/467993371878966405/b30985572fab4edc952f1262b0ce6356/artifacts
+end_time: 1725717081981
+entry_point_name: ''
+experiment_id: '467993371878966405'
+lifecycle_stage: active
+run_id: b30985572fab4edc952f1262b0ce6356
+run_name: respected-lynx-368
+run_uuid: b30985572fab4edc952f1262b0ce6356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725717081860
+status: 4
+tags: []
+user_id: admin

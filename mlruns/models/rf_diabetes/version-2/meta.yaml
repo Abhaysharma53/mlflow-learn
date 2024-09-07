@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1725717772919
+current_stage: Deleted_Internal
+description: ''
+last_updated_timestamp: 1725717966003
+name: rf_diabetes
+run_id: 8a956870985942e78b6d084383c806b7
+run_link: ''
+source: models:/rf_diabetes/1
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/952951123668663807/8a956870985942e78b6d084383c806b7/artifacts/random
+  forest
+user_id: null
+version: 2

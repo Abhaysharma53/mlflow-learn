@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/952951123668663807/a1a5432ca5f3472485f88e461d8c5b48/artifacts
+end_time: 1725717145352
+entry_point_name: ''
+experiment_id: '952951123668663807'
+lifecycle_stage: active
+run_id: a1a5432ca5f3472485f88e461d8c5b48
+run_name: polite-midge-700
+run_uuid: a1a5432ca5f3472485f88e461d8c5b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725717145213
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/952951123668663807/d31ae11cdbd6473f93bd3d07af6dd9ba/artifacts
+end_time: 1725717145743
+entry_point_name: ''
+experiment_id: '952951123668663807'
+lifecycle_stage: active
+run_id: d31ae11cdbd6473f93bd3d07af6dd9ba
+run_name: merciful-shad-757
+run_uuid: d31ae11cdbd6473f93bd3d07af6dd9ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725717145629
+status: 3
+tags: []
+user_id: admin

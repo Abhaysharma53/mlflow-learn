@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/952951123668663807/1465f540fa5241e297c450ad2a4e9bc4/artifacts
+end_time: 1725717144509
+entry_point_name: ''
+experiment_id: '952951123668663807'
+lifecycle_stage: active
+run_id: 1465f540fa5241e297c450ad2a4e9bc4
+run_name: victorious-fowl-368
+run_uuid: 1465f540fa5241e297c450ad2a4e9bc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725717144395
+status: 3
+tags: []
+user_id: admin

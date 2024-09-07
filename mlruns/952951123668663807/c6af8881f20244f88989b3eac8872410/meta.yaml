@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/952951123668663807/c6af8881f20244f88989b3eac8872410/artifacts
+end_time: 1725717144371
+entry_point_name: ''
+experiment_id: '952951123668663807'
+lifecycle_stage: active
+run_id: c6af8881f20244f88989b3eac8872410
+run_name: sneaky-shrike-204
+run_uuid: c6af8881f20244f88989b3eac8872410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725717144265
+status: 3
+tags: []
+user_id: admin

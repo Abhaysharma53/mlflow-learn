@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/952951123668663807/d3b7a1faacd7485c888f4a00bf07e1be/artifacts
+end_time: 1725717145180
+entry_point_name: ''
+experiment_id: '952951123668663807'
+lifecycle_stage: active
+run_id: d3b7a1faacd7485c888f4a00bf07e1be
+run_name: dazzling-swan-686
+run_uuid: d3b7a1faacd7485c888f4a00bf07e1be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725717145074
+status: 3
+tags: []
+user_id: admin

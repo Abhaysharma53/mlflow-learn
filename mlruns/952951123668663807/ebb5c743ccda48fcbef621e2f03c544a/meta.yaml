@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/952951123668663807/ebb5c743ccda48fcbef621e2f03c544a/artifacts
+end_time: 1725717143724
+entry_point_name: ''
+experiment_id: '952951123668663807'
+lifecycle_stage: active
+run_id: ebb5c743ccda48fcbef621e2f03c544a
+run_name: youthful-kit-335
+run_uuid: ebb5c743ccda48fcbef621e2f03c544a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725717143609
+status: 3
+tags: []
+user_id: admin
