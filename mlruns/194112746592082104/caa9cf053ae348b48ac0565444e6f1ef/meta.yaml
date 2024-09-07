@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194112746592082104/caa9cf053ae348b48ac0565444e6f1ef/artifacts
+end_time: 1725719053335
+entry_point_name: ''
+experiment_id: '194112746592082104'
+lifecycle_stage: active
+run_id: caa9cf053ae348b48ac0565444e6f1ef
+run_name: casual-crow-416
+run_uuid: caa9cf053ae348b48ac0565444e6f1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725719053228
+status: 3
+tags: []
+user_id: admin

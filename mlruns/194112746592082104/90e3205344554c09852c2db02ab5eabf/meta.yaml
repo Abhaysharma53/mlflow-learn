@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194112746592082104/90e3205344554c09852c2db02ab5eabf/artifacts
+end_time: 1725719052483
+entry_point_name: ''
+experiment_id: '194112746592082104'
+lifecycle_stage: active
+run_id: 90e3205344554c09852c2db02ab5eabf
+run_name: wise-colt-122
+run_uuid: 90e3205344554c09852c2db02ab5eabf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725719052378
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194112746592082104/49cbab42d0d94684bac20470ec0bf696/artifacts
+end_time: 1725719051936
+entry_point_name: ''
+experiment_id: '194112746592082104'
+lifecycle_stage: active
+run_id: 49cbab42d0d94684bac20470ec0bf696
+run_name: likeable-midge-691
+run_uuid: 49cbab42d0d94684bac20470ec0bf696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725719051838
+status: 3
+tags: []
+user_id: admin

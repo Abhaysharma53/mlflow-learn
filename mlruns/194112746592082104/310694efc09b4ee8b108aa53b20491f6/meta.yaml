@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194112746592082104/310694efc09b4ee8b108aa53b20491f6/artifacts
+end_time: 1725719052205
+entry_point_name: ''
+experiment_id: '194112746592082104'
+lifecycle_stage: active
+run_id: 310694efc09b4ee8b108aa53b20491f6
+run_name: overjoyed-chimp-342
+run_uuid: 310694efc09b4ee8b108aa53b20491f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725719052099
+status: 3
+tags: []
+user_id: admin

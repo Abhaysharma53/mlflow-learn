@@ -1,0 +1,13 @@
+digest: 73495a8b
+name: dataset
+profile: '{"num_rows": 154, "num_elements": 1386}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Pregnancies", "required": true},
+  {"type": "long", "name": "Glucose", "required": true}, {"type": "long", "name":
+  "BloodPressure", "required": true}, {"type": "long", "name": "SkinThickness", "required":
+  true}, {"type": "long", "name": "Insulin", "required": true}, {"type": "double",
+  "name": "BMI", "required": true}, {"type": "double", "name": "DiabetesPedigreeFunction",
+  "required": true}, {"type": "long", "name": "Age", "required": true}, {"type": "long",
+  "name": "Outcome", "required": true}]}'
+source: '{"tags": {"mlflow.user": "admin", "mlflow.source.name": "mlflow_hpt_all_track.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "11cfec0ab4a126cfd8b758101b08245f872f47bb"}}'
+source_type: code

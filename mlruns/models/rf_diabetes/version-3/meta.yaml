@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1725719130135
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1725719223796
+name: rf_diabetes
+run_id: 80176751402144bf9de8fed5aae332d0
+run_link: ''
+source: mlflow-artifacts:/194112746592082104/80176751402144bf9de8fed5aae332d0/artifacts/gradient
+  boosting classifier
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/194112746592082104/80176751402144bf9de8fed5aae332d0/artifacts/gradient
+  boosting classifier
+user_id: null
+version: 3

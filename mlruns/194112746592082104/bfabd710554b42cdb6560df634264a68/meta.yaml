@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194112746592082104/bfabd710554b42cdb6560df634264a68/artifacts
+end_time: 1725719053596
+entry_point_name: ''
+experiment_id: '194112746592082104'
+lifecycle_stage: active
+run_id: bfabd710554b42cdb6560df634264a68
+run_name: carefree-vole-46
+run_uuid: bfabd710554b42cdb6560df634264a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725719053482
+status: 3
+tags: []
+user_id: admin

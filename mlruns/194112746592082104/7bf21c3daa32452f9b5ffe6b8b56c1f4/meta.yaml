@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194112746592082104/7bf21c3daa32452f9b5ffe6b8b56c1f4/artifacts
+end_time: 1725719053039
+entry_point_name: ''
+experiment_id: '194112746592082104'
+lifecycle_stage: active
+run_id: 7bf21c3daa32452f9b5ffe6b8b56c1f4
+run_name: selective-rook-18
+run_uuid: 7bf21c3daa32452f9b5ffe6b8b56c1f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725719052933
+status: 3
+tags: []
+user_id: admin

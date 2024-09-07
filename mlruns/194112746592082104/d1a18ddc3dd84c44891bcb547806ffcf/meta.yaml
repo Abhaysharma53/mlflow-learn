@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194112746592082104/d1a18ddc3dd84c44891bcb547806ffcf/artifacts
+end_time: 1725719051691
+entry_point_name: ''
+experiment_id: '194112746592082104'
+lifecycle_stage: active
+run_id: d1a18ddc3dd84c44891bcb547806ffcf
+run_name: kindly-fly-243
+run_uuid: d1a18ddc3dd84c44891bcb547806ffcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725719051577
+status: 3
+tags: []
+user_id: admin
