@@ -1,9 +1,9 @@
 aliases: []
 creation_timestamp: 1725722131899
-current_stage: None
+current_stage: Staging
 description: This is a extra tree classifier model trained to predict diabetes outcomes
   based on Pima Indians Diabetes Dataset.
-last_updated_timestamp: 1725722136953
+last_updated_timestamp: 1725726033896
 name: rf_diabetes
 run_id: e4e09ce7323d48f0951620027463b550
 run_link: null
