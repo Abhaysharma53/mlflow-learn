@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996752573686097140/e3911f5251a349309d5556beb83f2b4d/artifacts
+end_time: 1725720248207
+entry_point_name: ''
+experiment_id: '996752573686097140'
+lifecycle_stage: active
+run_id: e3911f5251a349309d5556beb83f2b4d
+run_name: awesome-shark-328
+run_uuid: e3911f5251a349309d5556beb83f2b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725720248034
+status: 3
+tags: []
+user_id: admin

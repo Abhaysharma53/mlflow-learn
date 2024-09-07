@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996752573686097140/4096075a34d14e0fbeddb2552e481378/artifacts
+end_time: 1725720252349
+entry_point_name: ''
+experiment_id: '996752573686097140'
+lifecycle_stage: active
+run_id: 4096075a34d14e0fbeddb2552e481378
+run_name: unleashed-moth-855
+run_uuid: 4096075a34d14e0fbeddb2552e481378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725720252083
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996752573686097140/5f237dd120e846b39e36b0bc6e26278f/artifacts
+end_time: 1725720253252
+entry_point_name: ''
+experiment_id: '996752573686097140'
+lifecycle_stage: active
+run_id: 5f237dd120e846b39e36b0bc6e26278f
+run_name: bright-crane-804
+run_uuid: 5f237dd120e846b39e36b0bc6e26278f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725720252973
+status: 3
+tags: []
+user_id: admin

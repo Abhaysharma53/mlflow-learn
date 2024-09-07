@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996752573686097140/59f19d9df3d343eb9706306e44562b0c/artifacts
+end_time: 1725720248650
+entry_point_name: ''
+experiment_id: '996752573686097140'
+lifecycle_stage: active
+run_id: 59f19d9df3d343eb9706306e44562b0c
+run_name: respected-seal-46
+run_uuid: 59f19d9df3d343eb9706306e44562b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725720248264
+status: 3
+tags: []
+user_id: admin

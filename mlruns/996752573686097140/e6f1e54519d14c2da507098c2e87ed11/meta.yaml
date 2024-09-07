@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996752573686097140/e6f1e54519d14c2da507098c2e87ed11/artifacts
+end_time: 1725720252923
+entry_point_name: ''
+experiment_id: '996752573686097140'
+lifecycle_stage: active
+run_id: e6f1e54519d14c2da507098c2e87ed11
+run_name: mysterious-auk-339
+run_uuid: e6f1e54519d14c2da507098c2e87ed11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725720252774
+status: 3
+tags: []
+user_id: admin
