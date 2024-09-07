@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/245592334635472390/0a4065edcc254c94bc8cb242b86e8ea0/artifacts
+end_time: 1725709595422
+entry_point_name: ''
+experiment_id: '245592334635472390'
+lifecycle_stage: active
+run_id: 0a4065edcc254c94bc8cb242b86e8ea0
+run_name: likeable-shoat-1000
+run_uuid: 0a4065edcc254c94bc8cb242b86e8ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725709595353
+status: 4
+tags: []
+user_id: admin

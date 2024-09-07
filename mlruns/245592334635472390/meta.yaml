@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/245592334635472390
+creation_time: 1725709595092
+experiment_id: '245592334635472390'
+last_update_time: 1725709595092
+lifecycle_stage: active
+name: diabetes-rf-hp

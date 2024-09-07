@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/DSMP/mlflow_test/mlruns/245592334635472390/ec885c39ee0c44668860ae576ea435bc/artifacts
+end_time: 1725709716442
+entry_point_name: ''
+experiment_id: '245592334635472390'
+lifecycle_stage: active
+run_id: ec885c39ee0c44668860ae576ea435bc
+run_name: puzzled-lynx-399
+run_uuid: ec885c39ee0c44668860ae576ea435bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725709703425
+status: 4
+tags: []
+user_id: admin
